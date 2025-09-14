@@ -2,7 +2,7 @@ package com.velocity;
 
 import java.util.ArrayList;
 
-public class Test {
+public class ArraylistDemo {
 	
 	public static void main (String args[]) {
 		
